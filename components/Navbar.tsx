@@ -61,7 +61,7 @@ const Navbar = () => {
                         lg:flex
                     "
                 >
-                    <NavbarItem label="Home" />
+                    <NavbarItem label="Accueil" />
                     <NavbarItem label="Séries" />
                     <NavbarItem label="Films" />
                     <NavbarItem label="Nouveautés" />

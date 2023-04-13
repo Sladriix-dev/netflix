@@ -13,7 +13,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ visible }) => {
             <div className="flex flex-col gap-4">
 
                 <div className="pc-3 text-center text-white hover:underline">
-                    Home
+                    Accueil
                 </div>
                 <div className="pc-3 text-center text-white hover:underline">
                     Séries
